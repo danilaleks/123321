@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+
+#countdown {
+  color: red;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+#countdown h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+#countdown #timer {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.white-background {
+  background-color: white;
+}
+
+#flowers {
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+}
